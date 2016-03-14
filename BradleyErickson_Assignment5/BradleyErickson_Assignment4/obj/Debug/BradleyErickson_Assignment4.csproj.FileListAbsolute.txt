@@ -1,0 +1,12 @@
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\bin\Debug\BradleyErickson_Assignment4.exe.config
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\bin\Debug\BradleyErickson_Assignment4.exe
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\bin\Debug\BradleyErickson_Assignment4.pdb
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.Form1.resources
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.Properties.Resources.resources
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.csproj.GenerateResource.Cache
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.exe
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.pdb
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment5\BradleyErickson_Assignment4\BradleyErickson_Assignment4\bin\Debug\BradleyErickson_Assignment4.exe.config
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment5\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.exe
+C:\Users\Bradley\Documents\Visual Studio 2012\Projects\BradleyErickson_Assignment5\BradleyErickson_Assignment4\BradleyErickson_Assignment4\obj\Debug\BradleyErickson_Assignment4.pdb
